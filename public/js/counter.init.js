@@ -13,7 +13,7 @@ counter.forEach(counter_value => {
         if(inc < 1){
             inc = 1;
         }
-        
+
 		// Check if target is reached
 		if (count < target) {
             // Add inc to count and output in counter_value
