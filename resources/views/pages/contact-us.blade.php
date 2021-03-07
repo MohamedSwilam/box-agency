@@ -29,7 +29,6 @@
     </div>
     <!--Shape End-->
 
-
     <section class="align-items-center" style="margin-bottom: 100px;">
         <div class="container">
             <div class="row align-items-center">
@@ -44,7 +43,7 @@
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Phone</h5>
-                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=00201223846401&text&app_absent=0" class="text-primary">+201223846401</a>
+                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=00201007857338&text&app_absent=0" class="text-primary">+201223846401</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
@@ -81,5 +80,4 @@
         </div><!--end container-->
     </section><!--end section-->
     <!-- Hero End -->
-
 @endsection
