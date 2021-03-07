@@ -43,7 +43,7 @@
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Phone</h5>
-                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=00201007857338&text&app_absent=0" class="text-primary">+201223846401</a>
+                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=+201007857338&text&app_absent=0" class="text-primary">+201223846401</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->

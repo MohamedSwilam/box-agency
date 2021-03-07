@@ -34,7 +34,7 @@
                 <h5 class="text-light footer-head">Connect with us</h5>
                 <ul class="list-unstyled social-icon social mb-0 mt-4">
                     <li class="list-inline-item"><a href="https://www.facebook.com/Xconnect-100514818750653" target="_blank" style="border: none;"><i style="font-size: 35px;" class="uil uil-facebook"></i></a></li>
-                    <li class="list-inline-item"><a href="https://api.whatsapp.com/send/?phone=00201007857338&text&app_absent=0" target="_blank" style="border: none;"><i style="font-size: 35px;" class="uil uil-whatsapp"></i></a></li>
+                    <li class="list-inline-item"><a href="https://api.whatsapp.com/send/?phone=+201007857338&text&app_absent=0" target="_blank" style="border: none;"><i style="font-size: 35px;" class="uil uil-whatsapp"></i></a></li>
                 </ul><!--end icon-->
 
             </div><!--end col-->
