@@ -27,28 +27,21 @@
             <!-- Navigation Menu-->
             <ul class="navigation-menu nav-light">
                 <li><a href="{{route('home')}}">Home</a></li>
-                <li><a href="{{route('about-us')}}">About Us</a></li>
-                <li><a href="{{route('contact-us')}}">Contact Us</a></li>
                 <li class="has-submenu">
                     <a href="#">Services</a><span class="menu-arrow"></span>
                     <ul class="submenu">
-                        <li class="has-submenu"><a href="{{route('service')}}"> Service 1 </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Service 2 </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Service 3</a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Service 4 </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Service 5 </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Enterprise Services </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Cloud Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Security Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> VOIP Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Network & Storage </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Cam Surveillance </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> IT Infrastructure </a></li>
+                        <li class="has-submenu"><a href="{{route('service')}}"> Outsource Services </a></li>
                     </ul>
                 </li>
-                <li class="has-submenu">
-                    <a href="#">Products</a><span class="menu-arrow"></span>
-                    <ul class="submenu">
-                        <li class="has-submenu"><a href="{{route('product')}}"> Product 1 </a></li>
-                        <li class="has-submenu"><a href="{{route('product')}}"> Product 2 </a></li>
-                        <li class="has-submenu"><a href="{{route('product')}}"> Product 3</a></li>
-                        <li class="has-submenu"><a href="{{route('product')}}"> Product 4 </a></li>
-                        <li class="has-submenu"><a href="{{route('product')}}"> Product 5 </a></li>
-                    </ul>
-                </li>
+                <li><a href="{{route('about-us')}}">About Us</a></li>
+                <li><a href="{{route('contact-us')}}">Contact Us</a></li>
             </ul><!--end navigation menu-->
 
         </div><!--end navigation-->

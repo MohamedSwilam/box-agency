@@ -10,17 +10,15 @@
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-6">
                 <div class="title-heading">
-                    <h4 class="text-white-50">We are creative</h4>
-                    <h4 class="heading text-white mb-3 title-dark"> Best IT Solution <br> Company </h4>
-                    <p class="para-desc text-white-50">Launch your campaign and benefit from our expertise on designing and managing conversion centered bootstrap v5 html page.</p>
-                    <div class="mt-4 pt-2">
-                        <a href="javascript:void(0)" class="btn btn-light">Get Started</a>
-                    </div>
+                    <h4 class="text-white-50">You are always</h4>
+                    <h4 class="heading text-white mb-3 title-dark"> ONE STEP AHEAD <br> with our solutions </h4>
+                    <p class="para-desc text-white-50">With our experienced team we can provide best solutions for our clients from nearly all sectors.
+                    </p>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-5 col-md-6 mt-5 mt-sm-0">
-                <img src="/images/hero1.png" class="img-fluid" alt="">
+                <img src="/images/hero1.png" class="img-fluid" alt="" style="z-index: -1;opacity: 0;">
             </div>
         </div><!--end row-->
     </div> <!--end container-->
@@ -31,28 +29,70 @@
 <section class="py-4 bg-light">
     <div class="container">
         <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2 pt-5">
+                    <h4 class="title mb-4">Our Partners</h4>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        <div class="row justify-content-center">
+
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/amazon.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service3.png" class="avatar avatar-ex-sm" style="max-height: 28px;position: relative;top: 15px;"  alt="">
             </div><!--end col-->
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/google.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service11.png" class="avatar avatar-ex-sm" style="max-height: 52px;position: relative;top: 15px;" alt="">
             </div><!--end col-->
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/lenovo.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service12.png" class="avatar avatar-ex-sm" style="max-height: 68px;position: relative;top: 2px;" alt="">
             </div><!--end col-->
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/paypal.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service1.png" class="avatar avatar-ex-sm" style="max-height: 56px;" alt="">
             </div><!--end col-->
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/shopify.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service14.png" class="avatar avatar-ex-sm" style="max-height: 56px;" alt="">
             </div><!--end col-->
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
-                <img src="/images/client/spotify.svg" class="avatar avatar-ex-sm" alt="">
+                <img src="/images/client/service2.png" class="avatar avatar-ex-sm" style="max-height: 56px;"  alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service4.png" class="avatar avatar-ex-sm" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service5.png" class="avatar avatar-ex-sm" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service6.png" class="avatar avatar-ex-sm" style="max-height: 40px;" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service7.png" class="avatar avatar-ex-sm" style="max-height: 60px;position: relative;top: -15px;" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service8.png" class="avatar avatar-ex-sm" style="max-height: 70px;position: relative;top: -15px;" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service9.png" class="avatar avatar-ex-sm" style="max-height: 60px;position: relative;top: -15px;" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service10.png" class="avatar avatar-ex-sm" style="max-height: 50px;position: relative;top: -15px;" alt="">
+            </div><!--end col-->
+
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/service13.png" class="avatar avatar-ex-sm"  style="max-height: 50px;position: relative;top: -15px;" alt="">
+            </div><!--end col-->
             </div><!--end col-->
         </div><!--end row-->
     </div><!--end container-->
@@ -64,8 +104,7 @@
         <div class="row justify-content-center">
             <div class="col-12 text-center">
                 <div class="section-title mb-4 pb-2">
-                    <h4 class="title mb-4">What we do ?</h4>
-                    <p class="text-muted para-desc mb-0 mx-auto">Start working with <span class="text-primary fw-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+                    <h4 class="title mb-4">What we do</h4>
                 </div>
             </div><!--end col-->
         </div><!--end row-->
@@ -74,126 +113,123 @@
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-chart-line"></i>
+                                <i class="uil uil-data-sharing"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Hign Performance</h5>
+                        <h5>Connectivity Solution</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-chart-line"></i>
-                            </span>
+                        <i class="uil uil-data-sharing"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-crosshairs"></i>
+                                <i class="uil uil-shield-check"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Best Securities</h5>
+                        <h5>Security Solution</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-crosshairs"></i>
-                            </span>
+                        <i class="uil uil-shield-check"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-airplay"></i>
+                                <i class="uil uil-headphones"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Trusted Service</h5>
+                        <h5>VOIP Solution</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-airplay"></i>
-                            </span>
+                        <i class="uil uil-headphones"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-rocket"></i>
+                                <i class="uil uil-cloud-database-tree"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Info Technology</h5>
+                        <h5>Cloud Solution</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-rocket"></i>
-                            </span>
+                        <i class="uil uil-cloud-database-tree"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-clock"></i>
+                                <i class="uil uil-server"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>24/7 Support</h5>
+                        <h5>Network & Storage</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-clock"></i>
-                            </span>
+                        <i class="uil uil-server"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-users-alt"></i>
+                                <i class="uil uil-channel"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>IT Management</h5>
+                        <h5>IT Infrastructure</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-users-alt"></i>
-                            </span>
+                        <i class="uil uil-channel"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-file-alt"></i>
+                                <i class="uil uil-video"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Certified Company</h5>
+                        <h5>Cam Surveillance</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-file-alt"></i>
-                            </span>
+                        <i class="uil uil-video"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
                 <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                             <span class="h1 icon2 text-primary">
-                                <i class="uil uil-search"></i>
+                                <i class="uil uil-cog"></i>
                             </span>
                     <div class="card-body p-0 content">
-                        <h5>Data Analytics</h5>
+                        <h5>Outsource Services</h5>
                         <p class="para text-muted mb-0">It is a long established fact that a reader.</p>
                     </div>
                     <span class="big-icon text-center">
-                                <i class="uil uil-search"></i>
-                            </span>
+                        <i class="uil uil-cog"></i>
+                    </span>
                 </div>
             </div><!--end col-->
 
-            <div class="col-lg-12 text-center col-md-4 mt-4 pt-2">
-                <a href="javascript:void(0)" class="btn btn-primary">See more <i data-feather="arrow-right" class="fea icon-sm"></i></a>
-            </div><!--end col-->
         </div><!--end row-->
     </div><!--end container-->
 
@@ -271,242 +307,51 @@
     </div><!--end container-->
 </section><!--end section-->
 
-<!-- Start -->
-<section class="section pt-0">
-    <div class="container">
-        <div class="p-4 rounded shadow bg-primary position-relative" style="z-index: 1;">
-            <div class="row">
-                <div class="col-md-6 col-12">
-                    <div class="progress-box">
-                        <h6 class="title text-light title-dark">Web Designing</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:84%;">
-                                <div class="progress-value d-block text-light title-dark h6">84%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                    <div class="progress-box mt-4">
-                        <h6 class="title text-light title-dark">Web Development</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:75%;">
-                                <div class="progress-value d-block text-light title-dark h6">75%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                    <div class="progress-box mt-4">
-                        <h6 class="title text-light title-dark">Game Development</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:79%;">
-                                <div class="progress-value d-block text-light title-dark h6">79%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                </div><!--end col-->
 
-                <div class="col-md-6 col-12">
-                    <div class="progress-box mt-4 mt-sm-0">
-                        <h6 class="title text-light title-dark">App Development</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:84%;">
-                                <div class="progress-value d-block text-light title-dark h6">84%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                    <div class="progress-box mt-4">
-                        <h6 class="title text-light title-dark">Digital Marketing</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:75%;">
-                                <div class="progress-value d-block text-light title-dark h6">75%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                    <div class="progress-box mt-4">
-                        <h6 class="title text-light title-dark">Full stack Development</h6>
-                        <div class="progress title-bg-dark" style="height: 10px; padding: 3px">
-                            <div class="progress-bar position-relative bg-black" style="width:79%;">
-                                <div class="progress-value d-block text-light title-dark h6">79%</div>
-                            </div>
-                        </div>
-                    </div><!--end process box-->
-                </div><!--end col-->
-            </div><!--end row -->
-        </div>
-
-        <div class="row mt-4 pt-2 position-relative" id="counter" style="z-index: 1;">
-            <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box text-center">
-                    <img src="/images/illustrator/Asset190.svg" class="avatar avatar-small" alt="">
-                    <h2 class="mb-0 mt-4"><span class="counter-value" data-target="97">3</span>%</h2>
-                    <h6 class="counter-head text-muted">Happy Client</h6>
-                </div><!--end counter box-->
-            </div>
-
-            <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box text-center">
-                    <img src="/images/illustrator/Asset189.svg" class="avatar avatar-small" alt="">
-                    <h2 class="mb-0 mt-4"><span class="counter-value" data-target="15">1</span>+</h2>
-                    <h6 class="counter-head text-muted">Awards</h6>
-                </div><!--end counter box-->
-            </div>
-
-            <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box text-center">
-                    <img src="/images/illustrator/Asset192.svg" class="avatar avatar-small" alt="">
-                    <h2 class="mb-0 mt-4"><span class="counter-value" data-target="2">0</span>K</h2>
-                    <h6 class="counter-head text-muted">Job Placement</h6>
-                </div><!--end counter box-->
-            </div>
-
-            <div class="col-md-3 col-6 mt-4 pt-2">
-                <div class="counter-box text-center">
-                    <img src="/images/illustrator/Asset187.svg" class="avatar avatar-small" alt="">
-                    <h2 class="mb-0 mt-4"><span class="counter-value" data-target="98">3</span>%</h2>
-                    <h6 class="counter-head text-muted">Project Complete</h6>
-                </div><!--end counter box-->
-            </div>
-        </div><!--end row-->
-        <div class="feature-posts-placeholder bg-light"></div>
-    </div><!--end container-->
-</section><!--end section-->
-<!-- End -->
-
-<section class="section">
+<!-- Partners start -->
+<section class="py-4 bg-light">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="section-title text-center mb-4 pb-2">
-                    <h6 class="text-primary">Work Process</h6>
-                    <h4 class="title mb-4">How do we works ?</h4>
-                    <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary fw-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
+            <div class="col-12 text-center">
+                <div class="section-title mb-4 pb-2 pt-5">
+                    <h4 class="title mb-4">Success Stories</h4>
                 </div>
             </div><!--end col-->
         </div><!--end row-->
 
-        <div class="row">
-            <div class="col-md-4 mt-4 pt-2">
-                <div class="card features feature-clean work-process bg-transparent process-arrow border-0 text-center">
-                    <div class="icons text-primary text-center mx-auto">
-                        <i class="uil uil-presentation-edit d-block rounded h3 mb-0"></i>
-                    </div>
-
-                    <div class="card-body">
-                        <h5 class="text-dark">Discussion</h5>
-                        <p class="text-muted mb-0">The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated</p>
-                    </div>
-                </div>
-            </div><!--end col-->
-
-            <div class="col-md-4 mt-md-5 pt-md-3 mt-4 pt-2">
-                <div class="card features feature-clean work-process bg-transparent process-arrow border-0 text-center">
-                    <div class="icons text-primary text-center mx-auto">
-                        <i class="uil uil-airplay d-block rounded h3 mb-0"></i>
-                    </div>
-
-                    <div class="card-body">
-                        <h5 class="text-dark">Strategy & Testing</h5>
-                        <p class="text-muted mb-0">Generators convallis odio, vel pharetra quam malesuada vel. Nam porttitor malesuada.</p>
-                    </div>
-                </div>
-            </div><!--end col-->
-
-            <div class="col-md-4 mt-md-5 pt-md-5 mt-4 pt-2">
-                <div class="card features feature-clean work-process bg-transparent d-none-arrow border-0 text-center">
-                    <div class="icons text-primary text-center mx-auto">
-                        <i class="uil uil-image-check d-block rounded h3 mb-0"></i>
-                    </div>
-
-                    <div class="card-body">
-                        <h5 class="text-dark">Reporting</h5>
-                        <p class="text-muted mb-0">Internet Proin tempus odio, vel pharetra quam malesuada vel. Nam porttitor malesuada.</p>
-                    </div>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
-    </div><!--end container-->
-
-    <div class="container mt-100 mt-60">
         <div class="row justify-content-center">
-            <div class="col-12">
-                <div class="section-title text-center mb-4 pb-2">
-                    <h4 class="title mb-4">Our Mind Power</h4>
-                    <p class="text-muted para-desc mx-auto mb-0">Start working with <span class="text-primary fw-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
 
-        <div class="row">
-            <div class="col-lg-3 col-md-6 mt-4 pt-2">
-                <div class="card team text-center border-0">
-                    <div class="position-relative">
-                        <img src="/images/client/01.jpg" class="img-fluid avatar avatar-ex-large rounded-circle shadow" alt="">
-                        <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                        </ul><!--end icon-->
-                    </div>
-                    <div class="card-body py-3 px-0 content">
-                        <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Ronny Jofra</a></h5>
-                        <small class="designation text-muted">C.E.O</small>
-                    </div>
-                </div>
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story1.png" class="avatar avatar-ex-sm" style="max-height: 110px;"  alt="">
             </div><!--end col-->
 
-            <div class="col-lg-3 col-md-6 mt-4 pt-2">
-                <div class="card team text-center border-0">
-                    <div class="position-relative">
-                        <img src="/images/client/04.jpg" class="img-fluid avatar avatar-ex-large rounded-circle shadow" alt="">
-                        <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                        </ul><!--end icon-->
-                    </div>
-                    <div class="card-body py-3 px-0 content">
-                        <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Micheal Carlo</a></h5>
-                        <small class="designation text-muted">Director</small>
-                    </div>
-                </div>
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story2.png" class="avatar avatar-ex-sm" style="max-height: 110px;"  alt="">
+            </div><!--end col-->
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story3.png" class="avatar avatar-ex-sm" style="max-height: 90px;"  alt="">
             </div><!--end col-->
 
-            <div class="col-lg-3 col-md-6 mt-4 pt-2">
-                <div class="card team text-center border-0">
-                    <div class="position-relative">
-                        <img src="/images/client/02.jpg" class="img-fluid avatar avatar-ex-large rounded-circle shadow" alt="">
-                        <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                        </ul><!--end icon-->
-                    </div>
-                    <div class="card-body py-3 px-0 content">
-                        <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Aliana Rosy</a></h5>
-                        <small class="designation text-muted">Manager</small>
-                    </div>
-                </div>
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story4.png" class="avatar avatar-ex-sm" style="max-height: 90px;"  alt="">
+            </div><!--end col-->
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story5.png" class="avatar avatar-ex-sm" style="max-height: 90px;"  alt="">
+            </div><!--end col-->
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story6.png" class="avatar avatar-ex-sm" style="max-height: 40px;position: relative;top: 25px;"  alt="">
+            </div><!--end col-->
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story7.jpg" class="avatar avatar-ex-sm" style="max-height: 90px;"  alt="">
+            </div><!--end col-->
+            <div class="col-lg-2 col-md-2 col-6 text-center py-4">
+                <img src="/images/client/story8.png" class="avatar avatar-ex-sm" style="max-height: 90px;"  alt="">
             </div><!--end col-->
 
-            <div class="col-lg-3 col-md-6 mt-4 pt-2">
-                <div class="card team text-center border-0">
-                    <div class="position-relative">
-                        <img src="/images/client/03.jpg" class="img-fluid avatar avatar-ex-large rounded-circle shadow" alt="">
-                        <ul class="list-unstyled social-icon team-icon mb-0 mt-4">
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
-                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
-                        </ul><!--end icon-->
-                    </div>
-                    <div class="card-body py-3 px-0 content">
-                        <h5 class="mb-0"><a href="javascript:void(0)" class="name text-dark">Sofia Razaq</a></h5>
-                        <small class="designation text-muted">Developer</small>
-                    </div>
-                </div>
-            </div><!--end col-->
-        </div><!--end row-->
+        </div><!--end col-->
+    </div><!--end row-->
     </div><!--end container-->
 </section><!--end section-->
+<!-- Partners End -->
+
 @endsection
