@@ -5,15 +5,14 @@
 
 @section('content')
 <!-- Hero Start -->
-<section class="bg-half-170 pb-0 bg-primary d-table w-100" style="background: url('images/bg2.png') center center;">
+<section class="bg-half-170 pb-0 bg-primary d-table w-100" style="background: url('images/bg2.png') center center;background-repeat: no-repeat;background-size: cover;">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-6">
                 <div class="title-heading">
-                    <h4 class="text-white-50">You are always</h4>
+                    <h4 class="text-white">You are always</h4>
                     <h4 class="heading text-white mb-3 title-dark"> ONE STEP AHEAD <br> with our solutions </h4>
-                    <p class="para-desc text-white-50">With our experienced team we can provide best solutions for our clients from nearly all sectors.
-                    </p>
+                    <p class="para-desc text-white">With our experienced team we can provide best solutions for our clients from nearly all sectors.</p>
                 </div>
             </div><!--end col-->
 
