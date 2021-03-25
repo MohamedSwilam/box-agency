@@ -30,14 +30,13 @@
                 <li class="has-submenu">
                     <a href="#">Services</a><span class="menu-arrow"></span>
                     <ul class="submenu">
-                        <li class="has-submenu"><a href="{{route('service')}}"> Enterprise Services </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Cloud Solutions </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Security Solutions </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> VOIP Solutions </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Network & Storage </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Cam Surveillance </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> IT Infrastructure </a></li>
-                        <li class="has-submenu"><a href="{{route('service')}}"> Outsource Services </a></li>
+                        <li class="has-submenu"><a href="{{route('enterprise')}}"> Enterprise Services </a></li>
+                        <li class="has-submenu"><a href="{{route('cloud')}}"> Cloud Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('security')}}"> Security Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('voip')}}"> VOIP Solutions </a></li>
+                        <li class="has-submenu"><a href="{{route('cam')}}"> Cam Surveillance </a></li>
+                        <li class="has-submenu"><a href="{{route('it')}}"> IT Infrastructure </a></li>
+                        <li class="has-submenu"><a href="{{route('outsource')}}"> Outsource Services </a></li>
                     </ul>
                 </li>
                 <li><a href="{{route('about-us')}}">About Us</a></li>

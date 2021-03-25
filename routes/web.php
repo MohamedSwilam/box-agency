@@ -29,10 +29,30 @@ Route::get('/contact-us', function () {
     return view('pages.contact-us');
 })->name('contact-us');
 
-Route::get('/product', function () {
-    return view('pages.product');
-})->name('product');
+Route::get('/enterprise-service', function () {
+    return view('pages.services.enterprise');
+})->name('enterprise');
 
-Route::get('/service', function () {
-    return view('pages.service');
-})->name('service');
+Route::get('/cloud-solutions', function () {
+    return view('pages.services.cloud');
+})->name('cloud');
+
+Route::get('/security-solutions', function () {
+    return view('pages.services.security');
+})->name('security');
+
+Route::get('/voip-solutions', function () {
+    return view('pages.services.voip');
+})->name('voip');
+
+Route::get('/cam-surveillance', function () {
+    return view('pages.services.cam');
+})->name('cam');
+
+Route::get('/it-infrastructure', function () {
+    return view('pages.services.it');
+})->name('it');
+
+Route::get('/outsource-services', function () {
+    return view('pages.services.outsource');
+})->name('outsource');

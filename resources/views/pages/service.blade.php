@@ -5,12 +5,12 @@
 
 @section('content')
     <!-- Hero Start -->
-    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/account/bg.png) center center;">
+    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/bg2.png) center center;background-repeat: no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-12">
                     <div class="page-next-level">
-                        <h3 style="font-weight: bold;color: white;">Service Name</h3>
+                        <h2 style="position:relative;top: -30px;font-weight: bold;color: white;">Service Name</h2>
                     </div>
                 </div>  <!--end col-->
             </div><!--end row-->

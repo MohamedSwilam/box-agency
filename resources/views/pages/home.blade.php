@@ -9,9 +9,8 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-7 col-md-6">
-                <div class="title-heading">
-                    <h4 class="text-white">You are always</h4>
-                    <h4 class="heading text-white mb-3 title-dark"> ONE STEP AHEAD <br> with our solutions </h4>
+                <div class="title-heading" style="position: relative;top: -80px;">
+                    <h4 class="heading text-white mb-3 title-dark"> <span style="font-size: 65px;">X</span>CONNECT <br> CAN MAKE THE CHANGE </h4>
                     <p class="para-desc text-white">With our experienced team we can provide best solutions for our clients from nearly all sectors.</p>
                 </div>
             </div><!--end col-->
@@ -36,7 +35,6 @@
         </div><!--end row-->
 
         <div class="row justify-content-center">
-
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
                 <img src="/images/client/service3.png" class="avatar avatar-ex-sm" style="max-height: 28px;position: relative;top: 15px;"  alt="">
             </div><!--end col-->
@@ -91,7 +89,6 @@
 
             <div class="col-lg-2 col-md-2 col-6 text-center py-4">
                 <img src="/images/client/service13.png" class="avatar avatar-ex-sm"  style="max-height: 50px;position: relative;top: -15px;" alt="">
-            </div><!--end col-->
             </div><!--end col-->
         </div><!--end row-->
     </div><!--end container-->
@@ -229,79 +226,6 @@
                 </div>
             </div><!--end col-->
 
-        </div><!--end row-->
-    </div><!--end container-->
-
-    <!-- About Start -->
-    <div class="container mt-100 mt-60">
-        <div class="row align-items-center">
-            <div class="col-lg-6 col-md-6">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-6 mt-4 mt-lg-0 pt-2 pt-lg-0">
-                        <div class="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
-                            <div class="card-body p-0">
-                                <img src="/images/course/online/ab01.jpg" class="img-fluid" alt="work-image">
-                                <div class="overlay-work bg-dark"></div>
-                                <div class="content">
-                                    <a href="javascript:void(0)" class="title text-white d-block fw-bold">Web Development</a>
-                                    <small class="text-light">IT & Software</small>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-
-                    <div class="col-lg-6 col-6">
-                        <div class="row">
-                            <div class="col-lg-12 col-md-12 mt-4 mt-lg-0 pt-2 pt-lg-0">
-                                <div class="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
-                                    <div class="card-body p-0">
-                                        <img src="/images/course/online/ab02.jpg" class="img-fluid" alt="work-image">
-                                        <div class="overlay-work bg-dark"></div>
-                                        <div class="content">
-                                            <a href="javascript:void(0)" class="title text-white d-block fw-bold">Michanical Engineer</a>
-                                            <small class="text-light">Engineering</small>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!--end col-->
-
-                            <div class="col-lg-12 col-md-12 mt-4 pt-2">
-                                <div class="card work-container work-modern overflow-hidden rounded border-0 shadow-md">
-                                    <div class="card-body p-0">
-                                        <img src="/images/course/online/ab03.jpg" class="img-fluid" alt="work-image">
-                                        <div class="overlay-work bg-dark"></div>
-                                        <div class="content">
-                                            <a href="javascript:void(0)" class="title text-white d-block fw-bold">Chartered Accountant</a>
-                                            <small class="text-light">C.A.</small>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!--end col-->
-                        </div><!--end row-->
-                    </div><!--end col-->
-                </div><!--end row-->
-            </div><!--end col-->
-
-            <div class="col-lg-6 col-md-6 mt-4 mt-lg-0 pt- pt-lg-0">
-                <div class="ms-lg-4">
-                    <div class="section-title mb-4 pb-2">
-                        <h4 class="title mb-4">About Our Story</h4>
-                        <p class="text-muted para-desc">Start working with <span class="text-primary fw-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                        <p class="text-muted para-desc mb-0">The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. Lorem Ipsum is composed in a pseudo-Latin language which more or less corresponds to 'proper' Latin. It contains a series of real Latin words.</p>
-                    </div>
-
-                    <ul class="list-unstyled text-muted">
-                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>Fully Responsive</li>
-                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>Multiple Layouts</li>
-                        <li class="mb-0"><span class="text-primary h4 me-2"><i class="uil uil-check-circle align-middle"></i></span>Suits Your Style</li>
-                    </ul>
-
-                    <div class="watch-video mt-4 pt-2">
-                        <a href="https://1.envato.market/4n73n" target="_blank" class="btn btn-primary m-1">Read More <i class="uil uil-angle-right-b align-middle"></i></a>
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#watchvideomodal" class="btn btn-icon btn-pills video-play-icon btn-primary m-1"><i data-feather="video" class="icons"></i></a><span class="fw-bold text-uppercase small align-middle ms-1">Watch Now</span>
-                    </div>
-                </div>
-            </div>
         </div><!--end row-->
     </div><!--end container-->
 </section><!--end section-->
