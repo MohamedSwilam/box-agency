@@ -12,10 +12,10 @@
                     <div class="page-next-level">
                         <h2 style="position:relative;top: -30px;font-weight: bold;color: white;">Cloud Solutions</h2>
                     </div>
-                </div>  <!--end col-->
-            </div><!--end row-->
-        </div> <!--end container-->
-    </section><!--end section-->
+                </div>  <!-- end col -->
+            </div><!-- end row -->
+        </div> <!-- end container -->
+    </section><!-- end section -->
     <!-- Hero End -->
 
     <!-- Shape Start -->
@@ -44,7 +44,7 @@
                                 </div><!--end col-->
 
                                 <div class="col-lg-4 col-md-4 col-12 text-center py-4">
-                                    <img src="/images/client/service15.jpg" class="avatar avatar-ex-sm" style="max-height: 98px;position: relative;top: 2px;" alt="">
+                                    <img src="/images/client/service15.jpg" class="avatar avatar-ex-sm" style="max-height: 78px;position: relative;top: 10px;" alt="">
                                 </div><!--end col-->
 
                             </div><!--end row-->
@@ -54,7 +54,6 @@
                             <p class="text-muted">
                                 Cloud computing is the delivery of on-demand computing services from applications to storage and processing typically over the internet and on a pay-as-you-go basis.
                             </p>
-
                         </div>
                     </div>
                 </div>

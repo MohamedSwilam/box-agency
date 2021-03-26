@@ -46,7 +46,7 @@
                                 <p class="text-muted">
                                     XCONNECT provides professional consultant to an individual or an organization for a fee. The types of firms vary, such as technology and advertising firms.
                                 </p>
-                                <h5 class="mt-4">Service Level Agreement</h5>
+                                <h5 class="title mt-4">Service Level Agreement</h5>
 
                                 <p class="text-muted">
                                     A service-level agreement (SLA) is a contract between XCONNECT and our customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet.

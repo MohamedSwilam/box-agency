@@ -32,33 +32,62 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-10">
+
                     <div class="row">
-                        <div class="col-md-12">
-                            <div class="row justify-content-center">
-                                <div class="col-lg-6 col-md-6 col-12 text-center py-4">
-                                    <img src="/images/services/service7.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">
-                                </div><!--end col-->
+                        <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="position-relative" style="margin-bottom: 10px;">
+                                <img src="/images/services/service7.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">
+                            </div>
+                            <div class="position-relative">
+                                <img src="/images/services/service8.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">
+                            </div>
+                        </div><!--end col-->
 
-                                <div class="col-lg-6 col-md-6 col-12 text-center py-4">
-                                    <img src="/images/services/service8.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">
-                                </div><!--end col-->
+                        <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="section-title ms-lg-4">
+                                <h5 class="mt-4">IT Infrastructure</h5>
 
-                            </div><!--end row-->
-
-                            <h5 class="mt-4">IT Infrastructure</h5>
-
-                            <p class="text-muted">
-                                XCONNECT will help you planning,designing and implementation your site network infrastructure and data centers with the latest techonolgy of servers, switching and routers and our services include:
-                                <ul class="text-muted">
-                                    <li>Cables Pulling</li>
-                                    <li>Rack Management </li>
-                                    <li>Switches Configuration </li>
-                                    <li>Servers Implementation </li>
-                                    <li>Firewall& Routers Configuration  </li>
-                                </ul>
-                            </p>
-                        </div>
+                                <p class="text-muted">
+                                    XCONNECT will help you planning,designing and implementation your site network infrastructure and data centers with the latest techonolgy of servers, switching and routers and our services include:
+                                    <ul class="text-muted">
+                                        <li>Cables Pulling</li>
+                                        <li>Rack Management </li>
+                                        <li>Switches Configuration </li>
+                                        <li>Servers Implementation </li>
+                                        <li>Firewall& Routers Configuration  </li>
+                                    </ul>
+                                </p>
+                            </div>
+                        </div><!--end col-->
                     </div>
+
+{{--                    <div class="row">--}}
+{{--                        <div class="col-md-12">--}}
+{{--                            <div class="row justify-content-center">--}}
+{{--                                <div class="col-lg-6 col-md-6 col-12 text-center py-4">--}}
+{{--                                    <img src="/images/services/service7.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">--}}
+{{--                                </div><!--end col-->--}}
+
+{{--                                <div class="col-lg-6 col-md-6 col-12 text-center py-4">--}}
+{{--                                    <img src="/images/services/service8.jpeg" class="avatar avatar-ex-sm" style="max-height: 250px;" alt="">--}}
+{{--                                </div><!--end col-->--}}
+
+{{--                            </div><!--end row-->--}}
+
+{{--                            <h5 class="mt-4">IT Infrastructure</h5>--}}
+
+{{--                            <p class="text-muted">--}}
+{{--                                XCONNECT will help you planning,designing and implementation your site network infrastructure and data centers with the latest techonolgy of servers, switching and routers and our services include:--}}
+{{--                                <ul class="text-muted">--}}
+{{--                                    <li>Cables Pulling</li>--}}
+{{--                                    <li>Rack Management </li>--}}
+{{--                                    <li>Switches Configuration </li>--}}
+{{--                                    <li>Servers Implementation </li>--}}
+{{--                                    <li>Firewall& Routers Configuration  </li>--}}
+{{--                                </ul>--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>

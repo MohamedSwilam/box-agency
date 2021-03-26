@@ -44,8 +44,8 @@
                         <p class="text-muted">
                             XCONNECT established in 2009 at the name "ALAMIN SOULTIONS" and in 2021 we decided to change out identity to XCONNECT, in the last 11 years we gain experience and our technical team get more and more professionalism ,we accomplished a lot of projects and we gain the trust of a lot of clients who become  members of our family , and in 2021 we hope to gain the trust of new clients.
                         </p>
-                        <p class="text-muted text-center">
-                            XCONNECT CAN MAKE THE CHANGE
+                        <p class="text-center">
+                            <b>XCONNECT CAN MAKE THE CHANGE</b>
                         </p>
                     </div>
                 </div><!--end col-->

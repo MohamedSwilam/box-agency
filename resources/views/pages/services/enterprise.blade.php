@@ -34,7 +34,11 @@
                 <div class="col-lg-10">
                     <div class="row">
                         <div class="col-md-12">
-                            <img src="/images/services/service1.jpeg" class="img-fluid rounded-md shadow" alt="">
+                            <div class="row justify-content-center" style="position: relative;top: -25px;">
+                                <div class="col-lg-12 col-md-12 col-12 text-center py-4">
+                                    <img src="/images/services/service1.jpeg" class="img-fluid rounded-md shadow" alt="" style="max-width: 700px;">
+                                </div><!--end col-->
+                            </div>
 
                             <h5 class="mt-4">IP Transit</h5>
 

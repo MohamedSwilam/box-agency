@@ -36,7 +36,7 @@
                         <div class="col-md-12">
                             <img src="/images/services/service6.jpeg" class="img-fluid rounded-md shadow" alt="">
 
-                            <h5 class="mt-4">CCTV Solutions</h5>
+                            <h5 class="mt-4">Cam Surveillance</h5>
 
                             <p class="text-muted">
                                 XCONNECT prepare the deployment of CCTV using analog technology and IP according to the client's requirements. and with HIKVISION product we can provied the best techonlogy and affordable cost the way to monitor and secure your work.
