@@ -200,7 +200,7 @@
             </div><!--end col-->
 
             <div class="col-lg-3 col-md-4 mt-4 pt-2">
-                <a href="{{route('enterprise')}}" style="color: black;">
+                <a href="{{route('cloud')}}" style="color: black;">
                     <div class="card features fea-primary rounded p-4 bg-light text-center position-relative overflow-hidden border-0">
                         <span class="h1 icon2 text-primary">
                             <i class="uil uil-server"></i>
