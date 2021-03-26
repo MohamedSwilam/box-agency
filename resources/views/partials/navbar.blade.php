@@ -28,7 +28,7 @@
             <ul class="navigation-menu nav-light">
                 <li><a href="{{route('home')}}">Home</a></li>
                 <li class="has-submenu">
-                    <a href="#">Services</a><span class="menu-arrow"></span>
+                    <a href="javascript:void(0)">Services</a><span class="menu-arrow"></span>
                     <ul class="submenu">
                         <li class="has-submenu"><a href="{{route('enterprise')}}"> Enterprise Services </a></li>
                         <li class="has-submenu"><a href="{{route('cloud')}}"> Cloud Solutions </a></li>

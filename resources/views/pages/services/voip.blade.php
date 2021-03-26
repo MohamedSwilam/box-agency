@@ -33,18 +33,20 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="row">
-                        <div class="col-md-12">
-                            <div class="row justify-content-center">
-                                <div class="col-12 text-center py-4">
-                                    <img style="max-width: 400px;" src="/images/services/service5.jpeg" class="img-fluid rounded-md shadow" alt="">
-                                </div>
+                        <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="position-relative">
+                                <img src="/images/services/service5.jpeg" class="rounded img-fluid mx-auto d-block" alt="">
                             </div>
-                            <h5 class="mt-4">VOIP Solutions</h5>
+                        </div><!--end col-->
 
-                            <p class="text-muted">
-                                XCONNECT deliver an entire communications solution in one powerful and easy to manage deployment. From IP Voice & Video, to IP networking, surveillance, conferencing and more, we deliver the tools any organization needs to be successful. All of our solutions deliver state-of-the-art features to maximize your network's customibility, while being optimized to seamlessly work together.
-                            </p>
-                        </div>
+                        <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="section-title ms-lg-4">
+                                <h5 class="title mb-4">VOIP Solutions</h5>
+                                <p class="text-muted">
+                                    XCONNECT deliver an entire communications solution in one powerful and easy to manage deployment. From IP Voice & Video, to IP networking, surveillance, conferencing and more, we deliver the tools any organization needs to be successful. All of our solutions deliver state-of-the-art features to maximize your network's customibility, while being optimized to seamlessly work together.
+                                </p>
+                            </div>
+                        </div><!--end col-->
                     </div>
                 </div>
             </div>

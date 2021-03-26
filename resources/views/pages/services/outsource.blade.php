@@ -33,22 +33,26 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10">
                     <div class="row">
-                        <div class="col-md-12">
 
-                            <img src="/images/services/service9.jpeg" class="img-fluid rounded-md shadow" alt="">
+                        <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="position-relative">
+                                <img src="/images/services/service9.jpeg" class="rounded img-fluid mx-auto d-block" alt="">
+                            </div>
+                        </div><!--end col-->
 
-                            <h5 class="mt-4">Consultancy</h5>
+                        <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                            <div class="section-title ms-lg-4">
+                                <h5 class="title mb-4">Consultancy</h5>
+                                <p class="text-muted">
+                                    XCONNECT provides professional consultant to an individual or an organization for a fee. The types of firms vary, such as technology and advertising firms.
+                                </p>
+                                <h5 class="mt-4">Service Level Agreement</h5>
 
-                            <p class="text-muted">
-                                XCONNECT provides professional consultant to an individual or an organization for a fee. The types of firms vary, such as technology and advertising firms.
-                            </p>
-
-                            <h5 class="mt-4">Service Level Agreement</h5>
-
-                            <p class="text-muted">
-                                A service-level agreement (SLA) is a contract between XCONNECT and our customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet.
-                            </p>
-                        </div>
+                                <p class="text-muted">
+                                    A service-level agreement (SLA) is a contract between XCONNECT and our customers that documents what services the provider will furnish and defines the service standards the provider is obligated to meet.
+                                </p>
+                            </div>
+                        </div><!--end col-->
                     </div>
                 </div>
             </div>

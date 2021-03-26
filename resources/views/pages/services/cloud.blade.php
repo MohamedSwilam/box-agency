@@ -44,7 +44,7 @@
                                 </div><!--end col-->
 
                                 <div class="col-lg-4 col-md-4 col-12 text-center py-4">
-                                    <img src="/images/client/service15.jpeg" class="avatar avatar-ex-sm" style="max-height: 108px;position: relative;top: 2px;" alt="">
+                                    <img src="/images/client/service15.jpg" class="avatar avatar-ex-sm" style="max-height: 98px;position: relative;top: 2px;" alt="">
                                 </div><!--end col-->
 
                             </div><!--end row-->

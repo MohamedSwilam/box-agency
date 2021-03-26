@@ -5,13 +5,12 @@
 
 @section('content')
     <!-- Hero Start -->
-    <!-- Hero Start -->
-    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/account/bg.png) center center;">
+    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/bg2.png) center center;background-repeat: no-repeat;background-size: cover;">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-12 text-center">
+                <div class="col-lg-12">
                     <div class="page-next-level">
-                        <h3 style="font-weight: bold;color: white;">Contact Us</h3>
+                        <h2 style="font-weight: bold;color: white;">Contact Us</h2>
                     </div>
                 </div>  <!--end col-->
             </div><!--end row-->
@@ -43,7 +42,7 @@
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Phone</h5>
-                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=+201007857338&text&app_absent=0" class="text-primary">+201007857338compo</a>
+                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=+201007857338&text&app_absent=0" class="text-primary">+201007857338</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
