@@ -1,4 +1,4 @@
-/* Template Name: Landrick - Saas & Software Landing Page Template
+/* Template Name: Box Agency - Saas & Software Landing Page Template
    Author: Shreethemes
    E-mail: shreethemes@gmail.com
    Created: August 2019

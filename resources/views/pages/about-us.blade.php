@@ -5,12 +5,12 @@
 
 @section('content')
     <!-- Hero Start -->
-    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/bg2.png) center center;background-repeat: no-repeat;background-size: cover;">
+    <section class="bg-half d-table w-100" style="background: black;">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
                     <div class="page-next-level">
-                        <h2 style="font-weight: bold;color: white;">About Us</h2>
+                        <h1 style="font-weight: bold;color: white;">About Us</h1>
                     </div>
                 </div>  <!--end col-->
             </div><!--end row-->
@@ -31,22 +31,73 @@
     <!-- About Start -->
     <section class="section">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center mb-5">
+                <div class="col-12 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ms-lg-4">
+                        <h4 class="title mb-4">Our Story</h4>
+                        <p class="text-dark">
+                            Back in 2018, when there were two friends sitting in their BOX room, they had nothing
+                            but their flaming passion for discovering life and its hidden meanings through their tools,
+                            together they collaborated to uncover the mystery of life.
+                        </p>
+                        <p class="text-dark">
+                            The formula was a mixture of passion for Media Production and the Marketing
+                            Field, and a very small office drives them to BOX -the treasure-!
+                        </p>
+                        <p class="text-dark">
+                            NOW We're growing, learning, and putting efforts into action,
+                            the family became bigger and wiser, and always finding new treasures
+                            inside ourselves through the Journey.
+                        </p>
+                        <p class="text-center">
+                            <b>WE TRUST THE PROCESS!</b>
+                        </p>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+            <div class="row align-items-center mb-5">
                 <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="position-relative">
-                        <img src="/images/about.jpeg" class="rounded img-fluid mx-auto d-block" alt="">
+                        <img src="/images/mission.png" class="rounded img-fluid mx-auto d-block" alt="">
                     </div>
                 </div><!--end col-->
 
                 <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="section-title ms-lg-4">
-                        <h4 class="title mb-4">About Us</h4>
-                        <p class="text-muted">
-                            XCONNECT established in 2009 at the name "ALAMIN SOULTIONS" and in 2021 we decided to change out identity to XCONNECT, in the last 11 years we gain experience and our technical team get more and more professionalism ,we accomplished a lot of projects and we gain the trust of a lot of clients who become  members of our family , and in 2021 we hope to gain the trust of new clients.
+                        <h4 class="title mb-0">Mission</h4>
+                        <h6 class="text-muted mb-4 mt-0">Let's un-hide your brand's gems!</h6>
+                        <p class="text-dark">
+                            Unfolding the secrets around Marketing to create our glory,
+                            we search for the treasure trove that is buried under the name of your brand and deliver this treasure to your audience.
+                            We love adventures of dusting off your business, discovering
+                            gems that fortunate It, and putting your brand in the place
+                            where success stands waiting for you.
                         </p>
                         <p class="text-center">
-                            <b>XCONNECT CAN MAKE THE CHANGE</b>
+                            <b>WE ARE HERE, WE'VE GOT YOU!</b>
                         </p>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+            <div class="row align-items-center margin-top-100">
+                <div class="col-lg-7 col-md-7 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title ms-lg-4">
+                        <h4 class="title mb-0">Vision</h4>
+                        <h6 class="text-muted mb-4 mt-0">"Thinking out of the BOX to BOX the treasure" is our MOTO</h6>
+                        <p class="text-dark">
+                            Through this, we aim to create a place where we can make
+                            a significant CHANGE for your brand. We do believe that reaching
+                            this place has only one way which is to satisfy your needs in our own magical way.
+                            And help your brand step away from the competition.
+                        </p>
+                        <p class="text-center">
+                            <b>THE STRONG BOND & EMPATHIC CONNECTION IS OUR VISION!</b>
+                        </p>
+                    </div>
+                </div><!--end col-->
+                <div class="col-lg-5 col-md-5 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="position-relative">
+                        <img src="/images/vision.png" class="rounded img-fluid mx-auto d-block" alt="">
                     </div>
                 </div><!--end col-->
             </div><!--end row-->

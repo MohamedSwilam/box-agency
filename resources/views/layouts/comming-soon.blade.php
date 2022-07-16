@@ -31,7 +31,7 @@
             <div class="col-lg-8 col-md-12 text-center">
                 <a href="javascript:void(0)" class="logo h5"><img src="/images/logo/x-connect-logo-white.png" height="100" alt=""></a>
                 <div class="text-uppercase title-dark text-white mt-5 mb-4 coming-soon">We're Coming soon...</div>
-{{--                <p class="text-light para-desc para-dark mx-auto">Start working with <span class="text-primary fw-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>--}}
+{{--                <p class="text-light para-desc para-dark mx-auto">Start working with <span class="text-primary fw-bold">Box Agency</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>--}}
             </div>
         </div>
 

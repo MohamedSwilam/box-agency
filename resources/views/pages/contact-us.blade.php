@@ -5,12 +5,12 @@
 
 @section('content')
     <!-- Hero Start -->
-    <section class="bg-half bg-primary d-table w-100" style="background: url(/images/bg2.png) center center;background-repeat: no-repeat;background-size: cover;">
+    <section class="bg-half d-table w-100" style="background: black;">
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-12">
+                <div class="col-lg-12 text-center">
                     <div class="page-next-level">
-                        <h2 style="font-weight: bold;color: white;">Contact Us</h2>
+                        <h1 style="font-weight: bold;color: white;">Contact Us</h1>
                     </div>
                 </div>  <!--end col-->
             </div><!--end row-->
@@ -38,11 +38,11 @@
                                 <div class="col-md-4">
                                     <div class="card border-0 text-center features feature-clean">
                                         <div class="icons text-primary text-center mx-auto">
-                                            <i class="uil uil-phone d-block rounded h3 mb-0"></i>
+                                            <i class="uil uil-whatsapp d-block rounded h3 mb-0"></i>
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Phone</h5>
-                                            <a target="_blank" href="https://api.whatsapp.com/send/?phone=+201007857338&text&app_absent=0" class="text-primary">+201007857338</a>
+                                            <a target="_blank" href="https://wa.me/+201069778306" class="text-primary">+201069778306</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
@@ -54,7 +54,7 @@
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Email</h5>
-                                            <a href="mailto:info@xconnect-eg.com" class="text-primary">info@xconnect-eg.com</a>
+                                            <a href="mailto:info@xconnect-eg.com" class="text-primary">info@boxagency-eg.com</a>
                                         </div>
                                     </div>
                                 </div><!--end col-->
@@ -66,8 +66,7 @@
                                         </div>
                                         <div class="content mt-3">
                                             <h5 class="fw-bold">Locations</h5>
-                                            <p><b>Cairo Office:</b> <span class="text-muted">Nasr City</span></p>
-                                            <p><b>Alexandria Office:</b> <span class="text-muted">Sidi Besher</span></p>
+                                            <a class="text-primary">Nasr City - Cairo, Egypt</a>
                                         </div>
                                     </div>
                                 </div>

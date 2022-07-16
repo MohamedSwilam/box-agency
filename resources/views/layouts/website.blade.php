@@ -7,12 +7,14 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title') {{ config('app.name', 'X-Connect') }}</title>
+    <title>@yield('title') {{ config('app.name', 'Box Agency') }}</title>
 
     <link rel="icon" href="/images/logo/x-connect-logo-icon.png">
     <!-- Styles -->
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <!-- tobii css -->
+    <link href="/css/tobii.min.css" rel="stylesheet" type="text/css" />
     <!-- Icons -->
     <link href="/css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.6/css/line.css">
@@ -42,7 +44,11 @@
     <!-- FOOTER -->
     @include('partials.footer')
 
-    <!-- Back to top -->
+        <a href="https://wa.me/+201069778306" target="_blank" class="btn btn-pills btn-success" style="position: fixed;bottom: 30px;left: 20px">
+            <i class="uil uil-whatsapp icon-sm h6"></i> <span>Whatsapp</span>
+        </a>
+
+        <!-- Back to top -->
         <a href="#" onclick="topFunction()" id="back-to-top" class="btn btn-icon btn-primary back-to-top"><i data-feather="arrow-up" class="icons"></i></a>
         <!-- Back to top -->
     </div>
