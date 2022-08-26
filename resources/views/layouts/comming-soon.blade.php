@@ -7,9 +7,9 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title') {{ config('app.name', 'X-Connect') }}</title>
+    <title>@yield('title') {{ config('app.name', 'Box Agency') }}</title>
 
-    <link rel="icon" href="/images/logo/x-connect-logo-icon.png">
+    <link rel="icon" href="/images/logo/box-agency-logo-black.png">
     <!-- Styles -->
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
